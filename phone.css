@@ -1,0 +1,23 @@
+.navbar{
+   flex-direction: column;
+}
+.logo{
+    margin: 0px 12rem;
+}
+.navbar ul{
+    padding: 0px;
+}
+.social img{
+    margin: 10px 20px;
+}
+#services{
+    flex-direction: column;
+}
+* {
+    margin: 0px;
+    padding: 0px;
+    font-size: 1.1rem;             
+}
+.home h1{
+    margin-top: 10rem                 ;
+}
